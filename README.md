@@ -13,4 +13,4 @@ In this work, all algorithms that were previously implemented in pure C++ were m
 
 ### Owners ###
 
-The entire solution was developed by Rui Espinha Ribeiro ([Espinha](https://bitbucket.org/Espinha)) and David Silva ([dmpasilva](https://bitbucket.org/dmpasilva)).
+The entire solution was developed by Rui Espinha Ribeiro ([Espinha](https://github.com/respinha)) and David Silva ([dmpasilva](https://bitbucket.org/dmpasilva)).
